@@ -1,12 +1,12 @@
 # ISQA-8086-02-Assignments
 Data to Decision repository for submitting assignments
 
-# ISQA-8086-02 Data to Decisions
+### List of Files
 
-Data to Decisions Assignment-01 
+1. Background Research
+2. Data Entry Analysis
 
-
-#### License 
+### License 
 
 Apache License
 
